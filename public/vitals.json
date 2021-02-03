@@ -1,0 +1,3530 @@
+[
+  {
+    "timestamp": 1609401600000,
+    "active_energy": 1071,
+    "resting_heartrate": 53,
+    "steps": 16375,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1609315200000,
+    "active_energy": 676,
+    "resting_heartrate": 51,
+    "steps": 9938,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1609228800000,
+    "active_energy": 509,
+    "resting_heartrate": 50,
+    "steps": 7479,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1609142400000,
+    "active_energy": 477,
+    "resting_heartrate": 52,
+    "steps": 7511,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1609056000000,
+    "active_energy": 713,
+    "resting_heartrate": 49,
+    "steps": 10360,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1608969600000,
+    "active_energy": 812,
+    "resting_heartrate": 53,
+    "steps": 10752,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1608883200000,
+    "active_energy": 214,
+    "resting_heartrate": 57,
+    "steps": 4551,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1608796800000,
+    "active_energy": 862,
+    "resting_heartrate": 58,
+    "steps": 15159,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1608710400000,
+    "active_energy": 571,
+    "resting_heartrate": 52,
+    "steps": 5135,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1608624000000,
+    "active_energy": 798,
+    "resting_heartrate": 50,
+    "steps": 10153,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1608537600000,
+    "active_energy": 1000,
+    "resting_heartrate": 53,
+    "steps": 13428,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1608451200000,
+    "active_energy": 725,
+    "resting_heartrate": 51,
+    "steps": 12443,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1608364800000,
+    "active_energy": 849,
+    "resting_heartrate": 59,
+    "steps": 13182,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1608278400000,
+    "active_energy": 1098,
+    "resting_heartrate": 52,
+    "steps": 14313,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1608192000000,
+    "active_energy": 684,
+    "resting_heartrate": 50,
+    "steps": 8926,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1608105600000,
+    "active_energy": 668,
+    "resting_heartrate": 48,
+    "steps": 7197,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1608019200000,
+    "active_energy": 768,
+    "resting_heartrate": 49,
+    "steps": 8935,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1607932800000,
+    "active_energy": 660,
+    "resting_heartrate": 48,
+    "steps": 8643,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1607846400000,
+    "active_energy": 9,
+    "resting_heartrate": null,
+    "steps": 2353,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1607760000000,
+    "active_energy": 639,
+    "resting_heartrate": 49,
+    "steps": 12034,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1607673600000,
+    "active_energy": 885,
+    "resting_heartrate": 49,
+    "steps": 7902,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1607587200000,
+    "active_energy": 560,
+    "resting_heartrate": 47,
+    "steps": 7735,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1607500800000,
+    "active_energy": 886,
+    "resting_heartrate": 48,
+    "steps": 10295,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1607414400000,
+    "active_energy": 938,
+    "resting_heartrate": 47,
+    "steps": 15123,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1607328000000,
+    "active_energy": 552,
+    "resting_heartrate": 44,
+    "steps": 6096,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1607241600000,
+    "active_energy": 877,
+    "resting_heartrate": 50,
+    "steps": 15879,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1607155200000,
+    "active_energy": 1005,
+    "resting_heartrate": 48,
+    "steps": 16275,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1607068800000,
+    "active_energy": 898,
+    "resting_heartrate": 46,
+    "steps": 9359,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1606982400000,
+    "active_energy": 1035,
+    "resting_heartrate": 48,
+    "steps": 14534,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1606896000000,
+    "active_energy": 947,
+    "resting_heartrate": 47,
+    "steps": 11745,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1606809600000,
+    "active_energy": 343,
+    "resting_heartrate": 48,
+    "steps": 4179,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1606723200000,
+    "active_energy": 1450,
+    "resting_heartrate": 46,
+    "steps": 17506,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1606636800000,
+    "active_energy": 613,
+    "resting_heartrate": 44,
+    "steps": 10560,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1606550400000,
+    "active_energy": 537,
+    "resting_heartrate": 47,
+    "steps": 9518,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1606464000000,
+    "active_energy": 1470,
+    "resting_heartrate": 56,
+    "steps": 16322,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1606377600000,
+    "active_energy": 862,
+    "resting_heartrate": 47,
+    "steps": 11323,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1606291200000,
+    "active_energy": 796,
+    "resting_heartrate": 46,
+    "steps": 5683,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1606204800000,
+    "active_energy": 858,
+    "resting_heartrate": 48,
+    "steps": 11223,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1606118400000,
+    "active_energy": 1018,
+    "resting_heartrate": 48,
+    "steps": 14502,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1606032000000,
+    "active_energy": 1321,
+    "resting_heartrate": 55,
+    "steps": 17988,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1605945600000,
+    "active_energy": 998,
+    "resting_heartrate": 55,
+    "steps": 13961,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1605859200000,
+    "active_energy": 1364,
+    "resting_heartrate": 52,
+    "steps": 19583,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1605772800000,
+    "active_energy": 647,
+    "resting_heartrate": 49,
+    "steps": 9640,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1605686400000,
+    "active_energy": 367,
+    "resting_heartrate": 53,
+    "steps": 5084,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1605600000000,
+    "active_energy": 1245,
+    "resting_heartrate": 53,
+    "steps": 15002,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1605513600000,
+    "active_energy": 459,
+    "resting_heartrate": 51,
+    "steps": 2042,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1605427200000,
+    "active_energy": 625,
+    "resting_heartrate": 49,
+    "steps": 10164,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1605340800000,
+    "active_energy": 1080,
+    "resting_heartrate": 53,
+    "steps": 14034,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1605254400000,
+    "active_energy": 1069,
+    "resting_heartrate": 52,
+    "steps": 11896,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1605168000000,
+    "active_energy": 1169,
+    "resting_heartrate": 51,
+    "steps": 16220,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1605081600000,
+    "active_energy": 874,
+    "resting_heartrate": 53,
+    "steps": 12270,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1604995200000,
+    "active_energy": 1138,
+    "resting_heartrate": 55,
+    "steps": 15523,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1604908800000,
+    "active_energy": 1387,
+    "resting_heartrate": 57,
+    "steps": 17400,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1604822400000,
+    "active_energy": 910,
+    "resting_heartrate": 50,
+    "steps": 11575,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1604736000000,
+    "active_energy": 860,
+    "resting_heartrate": 49,
+    "steps": 14259,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1604649600000,
+    "active_energy": 1378,
+    "resting_heartrate": 57,
+    "steps": 16789,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1604563200000,
+    "active_energy": 1177,
+    "resting_heartrate": 55,
+    "steps": 16936,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1604476800000,
+    "active_energy": 820,
+    "resting_heartrate": 55,
+    "steps": 10857,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1604390400000,
+    "active_energy": 570,
+    "resting_heartrate": 50,
+    "steps": 6317,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1604304000000,
+    "active_energy": 969,
+    "resting_heartrate": 53,
+    "steps": 12505,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1604214000000,
+    "active_energy": 1000,
+    "resting_heartrate": 53,
+    "steps": 12438,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1604127600000,
+    "active_energy": 965,
+    "resting_heartrate": 52,
+    "steps": 20262,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1604041200000,
+    "active_energy": 1447,
+    "resting_heartrate": 61,
+    "steps": 18113,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1603954800000,
+    "active_energy": 1007,
+    "resting_heartrate": 51,
+    "steps": 14955,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1603868400000,
+    "active_energy": 977,
+    "resting_heartrate": 51,
+    "steps": 14110,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1603782000000,
+    "active_energy": 559,
+    "resting_heartrate": 49,
+    "steps": 9818,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1603695600000,
+    "active_energy": 1106,
+    "resting_heartrate": 50,
+    "steps": 13007,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1603609200000,
+    "active_energy": 818,
+    "resting_heartrate": 52,
+    "steps": 13897,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1603522800000,
+    "active_energy": 1668,
+    "resting_heartrate": 53,
+    "steps": 22184,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1603436400000,
+    "active_energy": 787,
+    "resting_heartrate": 59,
+    "steps": 10018,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1603350000000,
+    "active_energy": 745,
+    "resting_heartrate": 50,
+    "steps": 8868,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1603263600000,
+    "active_energy": 921,
+    "resting_heartrate": 54,
+    "steps": 12800,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1603177200000,
+    "active_energy": 784,
+    "resting_heartrate": 56,
+    "steps": 10134,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1603090800000,
+    "active_energy": 1051,
+    "resting_heartrate": 53,
+    "steps": 14045,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1603004400000,
+    "active_energy": 692,
+    "resting_heartrate": 50,
+    "steps": 11876,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1602918000000,
+    "active_energy": 1452,
+    "resting_heartrate": 54,
+    "steps": 18972,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1602831600000,
+    "active_energy": 834,
+    "resting_heartrate": 51,
+    "steps": 8427,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1602745200000,
+    "active_energy": 1190,
+    "resting_heartrate": 52,
+    "steps": 13584,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1602658800000,
+    "active_energy": 519,
+    "resting_heartrate": 61,
+    "steps": 7122,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1602572400000,
+    "active_energy": 1003,
+    "resting_heartrate": 69,
+    "steps": 15795,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1602486000000,
+    "active_energy": 558,
+    "resting_heartrate": 48,
+    "steps": 10380,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1602399600000,
+    "active_energy": 813,
+    "resting_heartrate": 45,
+    "steps": 11364,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1602313200000,
+    "active_energy": 924,
+    "resting_heartrate": 49,
+    "steps": 17597,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1602226800000,
+    "active_energy": 548,
+    "resting_heartrate": 53,
+    "steps": 7993,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1602140400000,
+    "active_energy": 685,
+    "resting_heartrate": 54,
+    "steps": 9958,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1602054000000,
+    "active_energy": 701,
+    "resting_heartrate": 47,
+    "steps": 9443,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1601967600000,
+    "active_energy": 846,
+    "resting_heartrate": 48,
+    "steps": 12714,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1601881200000,
+    "active_energy": 837,
+    "resting_heartrate": 52,
+    "steps": 9691,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1601794800000,
+    "active_energy": 712,
+    "resting_heartrate": 54,
+    "steps": 11186,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1601708400000,
+    "active_energy": 813,
+    "resting_heartrate": 52,
+    "steps": 9725,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1601622000000,
+    "active_energy": 773,
+    "resting_heartrate": 58,
+    "steps": 11164,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1601535600000,
+    "active_energy": 571,
+    "resting_heartrate": 51,
+    "steps": 7796,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1601449200000,
+    "active_energy": 619,
+    "resting_heartrate": 60,
+    "steps": 6857,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1601362800000,
+    "active_energy": 669,
+    "resting_heartrate": 59,
+    "steps": 5534,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1601276400000,
+    "active_energy": 799,
+    "resting_heartrate": 56,
+    "steps": 8752,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1601190000000,
+    "active_energy": 758,
+    "resting_heartrate": 50,
+    "steps": 12049,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1601103600000,
+    "active_energy": 461,
+    "resting_heartrate": 51,
+    "steps": 12857,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1601017200000,
+    "active_energy": 672,
+    "resting_heartrate": 53,
+    "steps": 7694,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1600930800000,
+    "active_energy": 910,
+    "resting_heartrate": 52,
+    "steps": 11220,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1600844400000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 5975,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1600758000000,
+    "active_energy": 617,
+    "resting_heartrate": 55,
+    "steps": 9345,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1600671600000,
+    "active_energy": 682,
+    "resting_heartrate": 52,
+    "steps": 7562,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1600585200000,
+    "active_energy": 1046,
+    "resting_heartrate": 55,
+    "steps": 16407,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1600498800000,
+    "active_energy": 684,
+    "resting_heartrate": 52,
+    "steps": 10551,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1600412400000,
+    "active_energy": 1245,
+    "resting_heartrate": 49,
+    "steps": 18774,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1600326000000,
+    "active_energy": 473,
+    "resting_heartrate": 53,
+    "steps": 4806,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1600239600000,
+    "active_energy": 903,
+    "resting_heartrate": 55,
+    "steps": 11618,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1600153200000,
+    "active_energy": 767,
+    "resting_heartrate": 51,
+    "steps": 10729,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1600066800000,
+    "active_energy": 734,
+    "resting_heartrate": 53,
+    "steps": 11902,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1599980400000,
+    "active_energy": 776,
+    "resting_heartrate": 53,
+    "steps": 13620,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1599894000000,
+    "active_energy": 793,
+    "resting_heartrate": 56,
+    "steps": 13830,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1599807600000,
+    "active_energy": 583,
+    "resting_heartrate": 54,
+    "steps": 9989,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1599721200000,
+    "active_energy": 255,
+    "resting_heartrate": null,
+    "steps": 8159,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1599634800000,
+    "active_energy": 158,
+    "resting_heartrate": null,
+    "steps": 5183,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1599548400000,
+    "active_energy": 186,
+    "resting_heartrate": null,
+    "steps": 3294,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1599462000000,
+    "active_energy": 605,
+    "resting_heartrate": null,
+    "steps": 9070,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1599375600000,
+    "active_energy": 1258,
+    "resting_heartrate": 64,
+    "steps": 12868,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1599289200000,
+    "active_energy": 439,
+    "resting_heartrate": 57,
+    "steps": 8528,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1599202800000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 4181,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1599116400000,
+    "active_energy": 441,
+    "resting_heartrate": null,
+    "steps": 7285,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1599030000000,
+    "active_energy": 819,
+    "resting_heartrate": 56,
+    "steps": 10401,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1598943600000,
+    "active_energy": 576,
+    "resting_heartrate": null,
+    "steps": 12296,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1598857200000,
+    "active_energy": 665,
+    "resting_heartrate": null,
+    "steps": 8771,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1598770800000,
+    "active_energy": 1212,
+    "resting_heartrate": null,
+    "steps": 18286,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1598684400000,
+    "active_energy": 711,
+    "resting_heartrate": 58,
+    "steps": 16178,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1598598000000,
+    "active_energy": 669,
+    "resting_heartrate": 53,
+    "steps": 8426,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1598511600000,
+    "active_energy": 847,
+    "resting_heartrate": 66,
+    "steps": 14454,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1598425200000,
+    "active_energy": 554,
+    "resting_heartrate": 54,
+    "steps": 5907,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1598338800000,
+    "active_energy": 905,
+    "resting_heartrate": 58,
+    "steps": 11646,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1598252400000,
+    "active_energy": 328,
+    "resting_heartrate": 51,
+    "steps": 6174,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1598166000000,
+    "active_energy": 361,
+    "resting_heartrate": 46,
+    "steps": 3720,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1598079600000,
+    "active_energy": 321,
+    "resting_heartrate": 50,
+    "steps": 6429,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1597993200000,
+    "active_energy": 1245,
+    "resting_heartrate": 60,
+    "steps": 20045,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1597906800000,
+    "active_energy": 697,
+    "resting_heartrate": 55,
+    "steps": 11584,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1597820400000,
+    "active_energy": 895,
+    "resting_heartrate": 53,
+    "steps": 10715,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1597734000000,
+    "active_energy": 212,
+    "resting_heartrate": 64,
+    "steps": 2447,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1597647600000,
+    "active_energy": 818,
+    "resting_heartrate": null,
+    "steps": 16070,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1597561200000,
+    "active_energy": 554,
+    "resting_heartrate": 59,
+    "steps": 5162,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1597474800000,
+    "active_energy": 1318,
+    "resting_heartrate": 75,
+    "steps": 18835,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1597388400000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 11089,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1597302000000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2752,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1597215600000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 4390,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1597129200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 8234,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1597042800000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2846,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1596956400000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 464,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1596870000000,
+    "active_energy": 761,
+    "resting_heartrate": 52,
+    "steps": 12395,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1596783600000,
+    "active_energy": 510,
+    "resting_heartrate": 49,
+    "steps": 6687,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1596697200000,
+    "active_energy": 905,
+    "resting_heartrate": 71,
+    "steps": 11281,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1596610800000,
+    "active_energy": 260,
+    "resting_heartrate": 50,
+    "steps": 1570,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1596524400000,
+    "active_energy": 429,
+    "resting_heartrate": 58,
+    "steps": 2631,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1596438000000,
+    "active_energy": 1185,
+    "resting_heartrate": 50,
+    "steps": 16442,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1596351600000,
+    "active_energy": 794,
+    "resting_heartrate": 56,
+    "steps": 9131,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1596265200000,
+    "active_energy": 642,
+    "resting_heartrate": 61,
+    "steps": 12062,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1596178800000,
+    "active_energy": 625,
+    "resting_heartrate": 51,
+    "steps": 9985,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1596092400000,
+    "active_energy": 566,
+    "resting_heartrate": 53,
+    "steps": 7043,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1596006000000,
+    "active_energy": 726,
+    "resting_heartrate": 51,
+    "steps": 7685,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1595919600000,
+    "active_energy": 487,
+    "resting_heartrate": 47,
+    "steps": 4820,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1595833200000,
+    "active_energy": 718,
+    "resting_heartrate": 55,
+    "steps": 7603,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1595746800000,
+    "active_energy": 803,
+    "resting_heartrate": 46,
+    "steps": 12749,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1595660400000,
+    "active_energy": 1276,
+    "resting_heartrate": 56,
+    "steps": 22756,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1595574000000,
+    "active_energy": 1354,
+    "resting_heartrate": 53,
+    "steps": 21417,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1595487600000,
+    "active_energy": 668,
+    "resting_heartrate": 53,
+    "steps": 7232,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1595401200000,
+    "active_energy": 1088,
+    "resting_heartrate": 54,
+    "steps": 15202,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1595314800000,
+    "active_energy": 513,
+    "resting_heartrate": 58,
+    "steps": 9338,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1595228400000,
+    "active_energy": 1237,
+    "resting_heartrate": 63,
+    "steps": 18723,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1595142000000,
+    "active_energy": 506,
+    "resting_heartrate": 54,
+    "steps": 8361,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1595055600000,
+    "active_energy": 979,
+    "resting_heartrate": 62,
+    "steps": 18996,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1594969200000,
+    "active_energy": 688,
+    "resting_heartrate": 46,
+    "steps": 9627,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1594882800000,
+    "active_energy": 927,
+    "resting_heartrate": 54,
+    "steps": 11124,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1594796400000,
+    "active_energy": 502,
+    "resting_heartrate": 51,
+    "steps": 6094,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1594710000000,
+    "active_energy": 1084,
+    "resting_heartrate": 53,
+    "steps": 14771,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1594623600000,
+    "active_energy": 823,
+    "resting_heartrate": 51,
+    "steps": 8783,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1594537200000,
+    "active_energy": 927,
+    "resting_heartrate": 49,
+    "steps": 13377,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1594450800000,
+    "active_energy": 680,
+    "resting_heartrate": 48,
+    "steps": 10138,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1594364400000,
+    "active_energy": 1390,
+    "resting_heartrate": 54,
+    "steps": 17953,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1594278000000,
+    "active_energy": 759,
+    "resting_heartrate": 49,
+    "steps": 9857,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1594191600000,
+    "active_energy": 1165,
+    "resting_heartrate": 52,
+    "steps": 13001,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1594105200000,
+    "active_energy": 787,
+    "resting_heartrate": 48,
+    "steps": 10412,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1594018800000,
+    "active_energy": 1128,
+    "resting_heartrate": 51,
+    "steps": 13111,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1593932400000,
+    "active_energy": 893,
+    "resting_heartrate": 52,
+    "steps": 9107,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1593846000000,
+    "active_energy": 895,
+    "resting_heartrate": 44,
+    "steps": 10324,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1593759600000,
+    "active_energy": 1494,
+    "resting_heartrate": 53,
+    "steps": 16565,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1593673200000,
+    "active_energy": 946,
+    "resting_heartrate": 54,
+    "steps": 13705,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1593586800000,
+    "active_energy": 851,
+    "resting_heartrate": 52,
+    "steps": 10503,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1593500400000,
+    "active_energy": 1015,
+    "resting_heartrate": 48,
+    "steps": 13055,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1593414000000,
+    "active_energy": 1379,
+    "resting_heartrate": 56,
+    "steps": 14389,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1593327600000,
+    "active_energy": 693,
+    "resting_heartrate": 46,
+    "steps": 11543,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1593241200000,
+    "active_energy": 737,
+    "resting_heartrate": 45,
+    "steps": 10768,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1593154800000,
+    "active_energy": 1149,
+    "resting_heartrate": 50,
+    "steps": 18321,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1593068400000,
+    "active_energy": 872,
+    "resting_heartrate": 49,
+    "steps": 10425,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1592982000000,
+    "active_energy": 1106,
+    "resting_heartrate": 48,
+    "steps": 12851,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1592895600000,
+    "active_energy": 1316,
+    "resting_heartrate": 50,
+    "steps": 19047,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1592809200000,
+    "active_energy": 1298,
+    "resting_heartrate": 48,
+    "steps": 7737,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1592722800000,
+    "active_energy": 1160,
+    "resting_heartrate": 52,
+    "steps": 12488,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1592636400000,
+    "active_energy": 745,
+    "resting_heartrate": 50,
+    "steps": 8848,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1592550000000,
+    "active_energy": 1314,
+    "resting_heartrate": 57,
+    "steps": 16481,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1592463600000,
+    "active_energy": 1144,
+    "resting_heartrate": 50,
+    "steps": 10177,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1592377200000,
+    "active_energy": 1208,
+    "resting_heartrate": 56,
+    "steps": 15499,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1592290800000,
+    "active_energy": 1300,
+    "resting_heartrate": 51,
+    "steps": 13776,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1592204400000,
+    "active_energy": 1187,
+    "resting_heartrate": 49,
+    "steps": 14612,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1592118000000,
+    "active_energy": 736,
+    "resting_heartrate": 45,
+    "steps": 10333,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1592031600000,
+    "active_energy": 692,
+    "resting_heartrate": 48,
+    "steps": 9945,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1591945200000,
+    "active_energy": 1215,
+    "resting_heartrate": 51,
+    "steps": 14332,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1591858800000,
+    "active_energy": 885,
+    "resting_heartrate": 54,
+    "steps": 14613,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1591772400000,
+    "active_energy": 835,
+    "resting_heartrate": 53,
+    "steps": 5489,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1591686000000,
+    "active_energy": 748,
+    "resting_heartrate": 51,
+    "steps": 9421,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1591599600000,
+    "active_energy": 855,
+    "resting_heartrate": 47,
+    "steps": 4320,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1591513200000,
+    "active_energy": 815,
+    "resting_heartrate": 50,
+    "steps": 10920,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1591426800000,
+    "active_energy": 725,
+    "resting_heartrate": 50,
+    "steps": 10390,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1591340400000,
+    "active_energy": 1161,
+    "resting_heartrate": 50,
+    "steps": 13254,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1591254000000,
+    "active_energy": 1124,
+    "resting_heartrate": 55,
+    "steps": 9292,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1591167600000,
+    "active_energy": 971,
+    "resting_heartrate": 54,
+    "steps": 13323,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1591081200000,
+    "active_energy": 890,
+    "resting_heartrate": 50,
+    "steps": 3784,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1590994800000,
+    "active_energy": 1240,
+    "resting_heartrate": 56,
+    "steps": 18453,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1590908400000,
+    "active_energy": 865,
+    "resting_heartrate": 50,
+    "steps": 7650,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1590822000000,
+    "active_energy": 763,
+    "resting_heartrate": 53,
+    "steps": 7400,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1590735600000,
+    "active_energy": 1346,
+    "resting_heartrate": 61,
+    "steps": 12510,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1590649200000,
+    "active_energy": 1059,
+    "resting_heartrate": 61,
+    "steps": 10268,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1590562800000,
+    "active_energy": 814,
+    "resting_heartrate": 56,
+    "steps": 8779,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1590476400000,
+    "active_energy": 1002,
+    "resting_heartrate": 59,
+    "steps": 3264,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1590390000000,
+    "active_energy": 823,
+    "resting_heartrate": 51,
+    "steps": 9600,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1590303600000,
+    "active_energy": 756,
+    "resting_heartrate": 52,
+    "steps": 12802,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1590217200000,
+    "active_energy": 645,
+    "resting_heartrate": 57,
+    "steps": 9856,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1590130800000,
+    "active_energy": 602,
+    "resting_heartrate": 49,
+    "steps": 7362,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1590044400000,
+    "active_energy": 911,
+    "resting_heartrate": 54,
+    "steps": 15546,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1589958000000,
+    "active_energy": 1522,
+    "resting_heartrate": 56,
+    "steps": 6868,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1589871600000,
+    "active_energy": 786,
+    "resting_heartrate": 48,
+    "steps": 10819,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1589785200000,
+    "active_energy": 911,
+    "resting_heartrate": 53,
+    "steps": 12415,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1589698800000,
+    "active_energy": 786,
+    "resting_heartrate": 50,
+    "steps": 9146,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1589612400000,
+    "active_energy": 575,
+    "resting_heartrate": 50,
+    "steps": 7299,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1589526000000,
+    "active_energy": 1254,
+    "resting_heartrate": 57,
+    "steps": 9032,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1589439600000,
+    "active_energy": 1261,
+    "resting_heartrate": 53,
+    "steps": 8609,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1589353200000,
+    "active_energy": 935,
+    "resting_heartrate": 53,
+    "steps": 10362,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1589266800000,
+    "active_energy": 1187,
+    "resting_heartrate": 52,
+    "steps": 5297,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1589180400000,
+    "active_energy": 1086,
+    "resting_heartrate": 49,
+    "steps": 5147,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1589094000000,
+    "active_energy": 788,
+    "resting_heartrate": 56,
+    "steps": 8865,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1589007600000,
+    "active_energy": 660,
+    "resting_heartrate": 53,
+    "steps": 7396,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1588921200000,
+    "active_energy": 1042,
+    "resting_heartrate": 57,
+    "steps": 14305,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1588834800000,
+    "active_energy": 1736,
+    "resting_heartrate": 57,
+    "steps": 3442,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1588748400000,
+    "active_energy": 610,
+    "resting_heartrate": 51,
+    "steps": 8526,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1588662000000,
+    "active_energy": 834,
+    "resting_heartrate": 57,
+    "steps": 11295,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1588575600000,
+    "active_energy": 892,
+    "resting_heartrate": 65,
+    "steps": 14345,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1588489200000,
+    "active_energy": 873,
+    "resting_heartrate": 55,
+    "steps": 7217,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1588402800000,
+    "active_energy": 535,
+    "resting_heartrate": 56,
+    "steps": 5653,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1588316400000,
+    "active_energy": 796,
+    "resting_heartrate": 65,
+    "steps": 6218,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1588230000000,
+    "active_energy": 897,
+    "resting_heartrate": 53,
+    "steps": 14885,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1588143600000,
+    "active_energy": 821,
+    "resting_heartrate": 60,
+    "steps": 9884,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1588057200000,
+    "active_energy": 367,
+    "resting_heartrate": 69,
+    "steps": 7671,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1587970800000,
+    "active_energy": 866,
+    "resting_heartrate": 56,
+    "steps": 10526,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1587884400000,
+    "active_energy": 897,
+    "resting_heartrate": 51,
+    "steps": 9828,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1587798000000,
+    "active_energy": 624,
+    "resting_heartrate": 55,
+    "steps": 7800,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1587711600000,
+    "active_energy": 546,
+    "resting_heartrate": 55,
+    "steps": 7016,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1587625200000,
+    "active_energy": 759,
+    "resting_heartrate": 57,
+    "steps": 12590,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1587538800000,
+    "active_energy": 767,
+    "resting_heartrate": 56,
+    "steps": 9740,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1587452400000,
+    "active_energy": 820,
+    "resting_heartrate": 58,
+    "steps": 12120,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1587366000000,
+    "active_energy": 819,
+    "resting_heartrate": 55,
+    "steps": 13981,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1587279600000,
+    "active_energy": 1142,
+    "resting_heartrate": 58,
+    "steps": 17940,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1587193200000,
+    "active_energy": 13,
+    "resting_heartrate": 55,
+    "steps": 4055,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1587106800000,
+    "active_energy": 633,
+    "resting_heartrate": 56,
+    "steps": 6468,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1587020400000,
+    "active_energy": 695,
+    "resting_heartrate": 55,
+    "steps": 7274,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1586934000000,
+    "active_energy": 855,
+    "resting_heartrate": 53,
+    "steps": 11195,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1586847600000,
+    "active_energy": 675,
+    "resting_heartrate": 53,
+    "steps": 9553,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1586761200000,
+    "active_energy": 920,
+    "resting_heartrate": 64,
+    "steps": 12769,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1586674800000,
+    "active_energy": 525,
+    "resting_heartrate": 61,
+    "steps": 8894,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1586588400000,
+    "active_energy": 592,
+    "resting_heartrate": 57,
+    "steps": 10359,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1586502000000,
+    "active_energy": 441,
+    "resting_heartrate": 54,
+    "steps": 4750,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1586415600000,
+    "active_energy": 816,
+    "resting_heartrate": 59,
+    "steps": 11845,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1586329200000,
+    "active_energy": 597,
+    "resting_heartrate": 56,
+    "steps": 7642,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1586242800000,
+    "active_energy": 728,
+    "resting_heartrate": 51,
+    "steps": 9071,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1586156400000,
+    "active_energy": 743,
+    "resting_heartrate": 58,
+    "steps": 13175,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1586070000000,
+    "active_energy": 61,
+    "resting_heartrate": null,
+    "steps": 1589,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1585983600000,
+    "active_energy": 433,
+    "resting_heartrate": 48,
+    "steps": 8600,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1585897200000,
+    "active_energy": 391,
+    "resting_heartrate": 62,
+    "steps": 7287,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1585810800000,
+    "active_energy": 738,
+    "resting_heartrate": 53,
+    "steps": 11565,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1585724400000,
+    "active_energy": 588,
+    "resting_heartrate": 54,
+    "steps": 9320,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1585638000000,
+    "active_energy": 822,
+    "resting_heartrate": 53,
+    "steps": 15162,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1585551600000,
+    "active_energy": 761,
+    "resting_heartrate": 56,
+    "steps": 12920,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1585465200000,
+    "active_energy": 709,
+    "resting_heartrate": 57,
+    "steps": 10830,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1585378800000,
+    "active_energy": 630,
+    "resting_heartrate": 59,
+    "steps": 10034,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1585292400000,
+    "active_energy": 427,
+    "resting_heartrate": 52,
+    "steps": 3864,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1585206000000,
+    "active_energy": 692,
+    "resting_heartrate": 45,
+    "steps": 11177,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1585119600000,
+    "active_energy": 661,
+    "resting_heartrate": 55,
+    "steps": 11374,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1585033200000,
+    "active_energy": 292,
+    "resting_heartrate": null,
+    "steps": 6124,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1584946800000,
+    "active_energy": 637,
+    "resting_heartrate": 61,
+    "steps": 7782,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1584860400000,
+    "active_energy": 614,
+    "resting_heartrate": 57,
+    "steps": 10892,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1584774000000,
+    "active_energy": 1026,
+    "resting_heartrate": 55,
+    "steps": 14428,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1584687600000,
+    "active_energy": 471,
+    "resting_heartrate": 60,
+    "steps": 9672,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1584601200000,
+    "active_energy": 1130,
+    "resting_heartrate": 62,
+    "steps": 15542,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1584514800000,
+    "active_energy": 675,
+    "resting_heartrate": 55,
+    "steps": 12157,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1584428400000,
+    "active_energy": 780,
+    "resting_heartrate": 65,
+    "steps": 10902,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1584342000000,
+    "active_energy": 873,
+    "resting_heartrate": null,
+    "steps": 17303,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1584255600000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 1193,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1584169200000,
+    "active_energy": 1009,
+    "resting_heartrate": 70,
+    "steps": 15255,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1584082800000,
+    "active_energy": 1063,
+    "resting_heartrate": 66,
+    "steps": 16933,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1583996400000,
+    "active_energy": 475,
+    "resting_heartrate": 54,
+    "steps": 5421,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1583910000000,
+    "active_energy": 775,
+    "resting_heartrate": 65,
+    "steps": 10132,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1583823600000,
+    "active_energy": 370,
+    "resting_heartrate": 53,
+    "steps": 3530,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1583737200000,
+    "active_energy": 923,
+    "resting_heartrate": 55,
+    "steps": 12881,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1583654400000,
+    "active_energy": 622,
+    "resting_heartrate": 61,
+    "steps": 8019,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1583568000000,
+    "active_energy": 536,
+    "resting_heartrate": 52,
+    "steps": 7074,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1583481600000,
+    "active_energy": 973,
+    "resting_heartrate": 56,
+    "steps": 11160,
+    "vo2_max": 40
+  },
+  {
+    "timestamp": 1583395200000,
+    "active_energy": 554,
+    "resting_heartrate": 63,
+    "steps": 7745,
+    "vo2_max": 39
+  },
+  {
+    "timestamp": 1583308800000,
+    "active_energy": 789,
+    "resting_heartrate": 65,
+    "steps": 10386,
+    "vo2_max": 39
+  },
+  {
+    "timestamp": 1583222400000,
+    "active_energy": 853,
+    "resting_heartrate": 71,
+    "steps": 11719,
+    "vo2_max": 39
+  },
+  {
+    "timestamp": 1583136000000,
+    "active_energy": 413,
+    "resting_heartrate": 59,
+    "steps": 3450,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1583049600000,
+    "active_energy": 761,
+    "resting_heartrate": 67,
+    "steps": 9275,
+    "vo2_max": 39
+  },
+  {
+    "timestamp": 1582963200000,
+    "active_energy": 324,
+    "resting_heartrate": 70,
+    "steps": 4700,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1582876800000,
+    "active_energy": 378,
+    "resting_heartrate": 55,
+    "steps": 5737,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1582790400000,
+    "active_energy": 316,
+    "resting_heartrate": 61,
+    "steps": 3202,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1582704000000,
+    "active_energy": 790,
+    "resting_heartrate": 61,
+    "steps": 9799,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1582617600000,
+    "active_energy": 354,
+    "resting_heartrate": 53,
+    "steps": 3209,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1582531200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 1431,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1582444800000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2592,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1582358400000,
+    "active_energy": 4,
+    "resting_heartrate": null,
+    "steps": 3872,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1582272000000,
+    "active_energy": 133,
+    "resting_heartrate": 73,
+    "steps": 3075,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1582185600000,
+    "active_energy": 769,
+    "resting_heartrate": 70,
+    "steps": 10683,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1582099200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2247,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1582012800000,
+    "active_energy": 785,
+    "resting_heartrate": 61,
+    "steps": 10142,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1581926400000,
+    "active_energy": 686,
+    "resting_heartrate": 57,
+    "steps": 8531,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1581840000000,
+    "active_energy": 2,
+    "resting_heartrate": null,
+    "steps": 219,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1581753600000,
+    "active_energy": 630,
+    "resting_heartrate": 55,
+    "steps": 10256,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1581667200000,
+    "active_energy": 373,
+    "resting_heartrate": 61,
+    "steps": 10104,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1581580800000,
+    "active_energy": 407,
+    "resting_heartrate": 54,
+    "steps": 5472,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1581494400000,
+    "active_energy": 853,
+    "resting_heartrate": 56,
+    "steps": 10930,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1581408000000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 1578,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1581321600000,
+    "active_energy": 894,
+    "resting_heartrate": 68,
+    "steps": 12113,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1581235200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 1621,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1581148800000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 3433,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1581062400000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 3016,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1580976000000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 3618,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1580889600000,
+    "active_energy": 322,
+    "resting_heartrate": 61,
+    "steps": 3805,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1580803200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 1253,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1580716800000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 4509,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1580630400000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2100,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1580544000000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 6621,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1580457600000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 1208,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1580371200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2083,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1580284800000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 3265,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1580198400000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2712,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1580112000000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 3533,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1580025600000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 6003,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1579939200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2882,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1579852800000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 3408,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1579766400000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 1195,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1579680000000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 3505,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1579593600000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 1727,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1579507200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2566,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1579420800000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 6199,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1579334400000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 241,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1579248000000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 7142,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1579161600000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 565,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1579075200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 5298,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1578988800000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2892,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1578902400000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2345,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1578816000000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 1605,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1578729600000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 5644,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1578643200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 1434,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1578556800000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2863,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1578470400000,
+    "active_energy": 330,
+    "resting_heartrate": null,
+    "steps": 2179,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1578384000000,
+    "active_energy": 381,
+    "resting_heartrate": null,
+    "steps": 2849,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1578297600000,
+    "active_energy": 445,
+    "resting_heartrate": null,
+    "steps": 4426,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1578211200000,
+    "active_energy": 325,
+    "resting_heartrate": null,
+    "steps": 3307,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1578124800000,
+    "active_energy": 265,
+    "resting_heartrate": 58,
+    "steps": 2993,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1578038400000,
+    "active_energy": 316,
+    "resting_heartrate": 82,
+    "steps": 6330,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1577952000000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 6695,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1577865600000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 8185,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1577779200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 4993,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1577692800000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 3140,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1577606400000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2639,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1577520000000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2036,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1577433600000,
+    "active_energy": 364,
+    "resting_heartrate": 77,
+    "steps": 6792,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1577347200000,
+    "active_energy": 9,
+    "resting_heartrate": null,
+    "steps": 597,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1577260800000,
+    "active_energy": 576,
+    "resting_heartrate": 69,
+    "steps": 6069,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1577174400000,
+    "active_energy": 11,
+    "resting_heartrate": null,
+    "steps": 4993,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1577088000000,
+    "active_energy": 377,
+    "resting_heartrate": 60,
+    "steps": 2720,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1577001600000,
+    "active_energy": 3,
+    "resting_heartrate": null,
+    "steps": 2424,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1576915200000,
+    "active_energy": 360,
+    "resting_heartrate": 73,
+    "steps": 9904,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1576828800000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 4014,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1576742400000,
+    "active_energy": 3,
+    "resting_heartrate": null,
+    "steps": 3840,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1576656000000,
+    "active_energy": 19,
+    "resting_heartrate": null,
+    "steps": 7718,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1576569600000,
+    "active_energy": 747,
+    "resting_heartrate": 58,
+    "steps": 10621,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1576483200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 4685,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1576396800000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 4834,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1576310400000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 3176,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1576224000000,
+    "active_energy": 5,
+    "resting_heartrate": null,
+    "steps": 5353,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1576137600000,
+    "active_energy": 512,
+    "resting_heartrate": 64,
+    "steps": 5837,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1576051200000,
+    "active_energy": 474,
+    "resting_heartrate": 59,
+    "steps": 4737,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1575964800000,
+    "active_energy": 384,
+    "resting_heartrate": 64,
+    "steps": 3052,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1575878400000,
+    "active_energy": 490,
+    "resting_heartrate": 61,
+    "steps": 6863,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1575792000000,
+    "active_energy": 461,
+    "resting_heartrate": 62,
+    "steps": 5573,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1575705600000,
+    "active_energy": 752,
+    "resting_heartrate": 75,
+    "steps": 9133,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1575619200000,
+    "active_energy": 192,
+    "resting_heartrate": 60,
+    "steps": 2082,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1575532800000,
+    "active_energy": 1,
+    "resting_heartrate": null,
+    "steps": 2197,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1575446400000,
+    "active_energy": 816,
+    "resting_heartrate": 56,
+    "steps": 4913,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1575360000000,
+    "active_energy": 795,
+    "resting_heartrate": 68,
+    "steps": 9031,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1575273600000,
+    "active_energy": 436,
+    "resting_heartrate": 60,
+    "steps": 5070,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1575187200000,
+    "active_energy": 542,
+    "resting_heartrate": 66,
+    "steps": 10399,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1575100800000,
+    "active_energy": 2,
+    "resting_heartrate": null,
+    "steps": 4452,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1575014400000,
+    "active_energy": 448,
+    "resting_heartrate": 61,
+    "steps": 4719,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1574928000000,
+    "active_energy": 2,
+    "resting_heartrate": null,
+    "steps": 2715,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1574841600000,
+    "active_energy": 346,
+    "resting_heartrate": 63,
+    "steps": 2918,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1574755200000,
+    "active_energy": 796,
+    "resting_heartrate": 62,
+    "steps": 8494,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1574668800000,
+    "active_energy": 306,
+    "resting_heartrate": 66,
+    "steps": 3605,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1574582400000,
+    "active_energy": 323,
+    "resting_heartrate": 64,
+    "steps": 3876,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1574496000000,
+    "active_energy": 439,
+    "resting_heartrate": 63,
+    "steps": 7196,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1574409600000,
+    "active_energy": 789,
+    "resting_heartrate": 62,
+    "steps": 10939,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1574323200000,
+    "active_energy": 306,
+    "resting_heartrate": 64,
+    "steps": 5751,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1574236800000,
+    "active_energy": 4,
+    "resting_heartrate": null,
+    "steps": 1562,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1574150400000,
+    "active_energy": 930,
+    "resting_heartrate": 66,
+    "steps": 11691,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1574064000000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2707,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1573977600000,
+    "active_energy": 850,
+    "resting_heartrate": 71,
+    "steps": 11850,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1573891200000,
+    "active_energy": 20,
+    "resting_heartrate": 68,
+    "steps": 638,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1573804800000,
+    "active_energy": 266,
+    "resting_heartrate": 76,
+    "steps": 2492,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1573718400000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 399,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1573632000000,
+    "active_energy": 531,
+    "resting_heartrate": 64,
+    "steps": 7468,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1573545600000,
+    "active_energy": 898,
+    "resting_heartrate": 66,
+    "steps": 17017,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1573459200000,
+    "active_energy": 1026,
+    "resting_heartrate": 71,
+    "steps": 19791,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1573372800000,
+    "active_energy": 518,
+    "resting_heartrate": 66,
+    "steps": 9104,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1573286400000,
+    "active_energy": 291,
+    "resting_heartrate": 66,
+    "steps": 4132,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1573200000000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 3464,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1573113600000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 2105,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1573027200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 3333,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1572940800000,
+    "active_energy": 18,
+    "resting_heartrate": null,
+    "steps": 2760,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1572854400000,
+    "active_energy": 913,
+    "resting_heartrate": 55,
+    "steps": 11674,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1572764400000,
+    "active_energy": 17,
+    "resting_heartrate": null,
+    "steps": 5043,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1572678000000,
+    "active_energy": 15,
+    "resting_heartrate": 55,
+    "steps": 4885,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1572591600000,
+    "active_energy": 401,
+    "resting_heartrate": 57,
+    "steps": 4610,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1572505200000,
+    "active_energy": 902,
+    "resting_heartrate": 64,
+    "steps": 12763,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1572418800000,
+    "active_energy": 900,
+    "resting_heartrate": 70,
+    "steps": 9697,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1572332400000,
+    "active_energy": 798,
+    "resting_heartrate": 63,
+    "steps": 7839,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1572246000000,
+    "active_energy": 561,
+    "resting_heartrate": 63,
+    "steps": 5038,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1572159600000,
+    "active_energy": 825,
+    "resting_heartrate": 71,
+    "steps": 9019,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1572073200000,
+    "active_energy": 413,
+    "resting_heartrate": 60,
+    "steps": 5427,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1571986800000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 6027,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1571900400000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 10210,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1571814000000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 3814,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1571727600000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 5444,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1571641200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 4945,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1571554800000,
+    "active_energy": 20,
+    "resting_heartrate": null,
+    "steps": 4721,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1571468400000,
+    "active_energy": 568,
+    "resting_heartrate": 56,
+    "steps": 9081,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1571382000000,
+    "active_energy": 471,
+    "resting_heartrate": 62,
+    "steps": 5902,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1571295600000,
+    "active_energy": 461,
+    "resting_heartrate": 61,
+    "steps": 5371,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1571209200000,
+    "active_energy": 1004,
+    "resting_heartrate": 61,
+    "steps": 12975,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1571122800000,
+    "active_energy": 586,
+    "resting_heartrate": 64,
+    "steps": 4352,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1571036400000,
+    "active_energy": 1053,
+    "resting_heartrate": 62,
+    "steps": 6063,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1570950000000,
+    "active_energy": 664,
+    "resting_heartrate": 61,
+    "steps": 7125,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1570863600000,
+    "active_energy": 1237,
+    "resting_heartrate": 58,
+    "steps": 18937,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1570777200000,
+    "active_energy": 753,
+    "resting_heartrate": 59,
+    "steps": 8886,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1570690800000,
+    "active_energy": 1046,
+    "resting_heartrate": 58,
+    "steps": 12643,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1570604400000,
+    "active_energy": 603,
+    "resting_heartrate": 53,
+    "steps": 7813,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1570518000000,
+    "active_energy": 1266,
+    "resting_heartrate": 51,
+    "steps": 16466,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1570431600000,
+    "active_energy": 806,
+    "resting_heartrate": 56,
+    "steps": 10202,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1570345200000,
+    "active_energy": 285,
+    "resting_heartrate": 61,
+    "steps": 8572,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1570258800000,
+    "active_energy": 786,
+    "resting_heartrate": 66,
+    "steps": 6188,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1570172400000,
+    "active_energy": 365,
+    "resting_heartrate": 59,
+    "steps": 4004,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1570086000000,
+    "active_energy": 1060,
+    "resting_heartrate": 65,
+    "steps": 16581,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1569999600000,
+    "active_energy": 263,
+    "resting_heartrate": 65,
+    "steps": 4070,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1569913200000,
+    "active_energy": null,
+    "resting_heartrate": null,
+    "steps": 5882,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1569826800000,
+    "active_energy": 724,
+    "resting_heartrate": 64,
+    "steps": 9828,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1569740400000,
+    "active_energy": 971,
+    "resting_heartrate": 58,
+    "steps": 7639,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1569654000000,
+    "active_energy": 880,
+    "resting_heartrate": 59,
+    "steps": 9966,
+    "vo2_max": 43
+  },
+  {
+    "timestamp": 1569567600000,
+    "active_energy": 751,
+    "resting_heartrate": 59,
+    "steps": 9749,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1569481200000,
+    "active_energy": 540,
+    "resting_heartrate": 61,
+    "steps": 6908,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1569394800000,
+    "active_energy": 710,
+    "resting_heartrate": 57,
+    "steps": 11050,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1569308400000,
+    "active_energy": 735,
+    "resting_heartrate": 48,
+    "steps": 7373,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1569222000000,
+    "active_energy": 549,
+    "resting_heartrate": 55,
+    "steps": 7043,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1569135600000,
+    "active_energy": 528,
+    "resting_heartrate": 59,
+    "steps": 7653,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1569049200000,
+    "active_energy": 925,
+    "resting_heartrate": 56,
+    "steps": 13713,
+    "vo2_max": 44
+  },
+  {
+    "timestamp": 1568962800000,
+    "active_energy": 376,
+    "resting_heartrate": 56,
+    "steps": 5327,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1568876400000,
+    "active_energy": 645,
+    "resting_heartrate": 58,
+    "steps": 7264,
+    "vo2_max": 44
+  },
+  {
+    "timestamp": 1568790000000,
+    "active_energy": 812,
+    "resting_heartrate": 63,
+    "steps": 8748,
+    "vo2_max": 44
+  },
+  {
+    "timestamp": 1568703600000,
+    "active_energy": 715,
+    "resting_heartrate": 60,
+    "steps": 7696,
+    "vo2_max": 44
+  },
+  {
+    "timestamp": 1568617200000,
+    "active_energy": 577,
+    "resting_heartrate": 58,
+    "steps": 7449,
+    "vo2_max": 44
+  },
+  {
+    "timestamp": 1568530800000,
+    "active_energy": 1471,
+    "resting_heartrate": 54,
+    "steps": 21691,
+    "vo2_max": 44
+  },
+  {
+    "timestamp": 1568444400000,
+    "active_energy": 635,
+    "resting_heartrate": 57,
+    "steps": 7904,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1568358000000,
+    "active_energy": 1038,
+    "resting_heartrate": 60,
+    "steps": 13781,
+    "vo2_max": 44
+  },
+  {
+    "timestamp": 1568271600000,
+    "active_energy": 680,
+    "resting_heartrate": 63,
+    "steps": 5542,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1568185200000,
+    "active_energy": 857,
+    "resting_heartrate": 59,
+    "steps": 9022,
+    "vo2_max": 44
+  },
+  {
+    "timestamp": 1568098800000,
+    "active_energy": 1151,
+    "resting_heartrate": 62,
+    "steps": 11841,
+    "vo2_max": 44
+  },
+  {
+    "timestamp": 1568012400000,
+    "active_energy": 573,
+    "resting_heartrate": 62,
+    "steps": 6072,
+    "vo2_max": 43
+  },
+  {
+    "timestamp": 1567926000000,
+    "active_energy": 798,
+    "resting_heartrate": 63,
+    "steps": 10493,
+    "vo2_max": 43
+  },
+  {
+    "timestamp": 1567839600000,
+    "active_energy": 949,
+    "resting_heartrate": 61,
+    "steps": 14179,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1567753200000,
+    "active_energy": 694,
+    "resting_heartrate": 56,
+    "steps": 6088,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1567666800000,
+    "active_energy": 1345,
+    "resting_heartrate": 62,
+    "steps": 14984,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1567580400000,
+    "active_energy": 475,
+    "resting_heartrate": 61,
+    "steps": 6060,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1567494000000,
+    "active_energy": 720,
+    "resting_heartrate": 63,
+    "steps": 8907,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1567407600000,
+    "active_energy": 1766,
+    "resting_heartrate": 67,
+    "steps": 22730,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1567321200000,
+    "active_energy": 667,
+    "resting_heartrate": 59,
+    "steps": 7135,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1567234800000,
+    "active_energy": 568,
+    "resting_heartrate": 60,
+    "steps": 6007,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1567148400000,
+    "active_energy": 652,
+    "resting_heartrate": 64,
+    "steps": 8019,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1567062000000,
+    "active_energy": 906,
+    "resting_heartrate": 56,
+    "steps": 11219,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1566975600000,
+    "active_energy": 694,
+    "resting_heartrate": 64,
+    "steps": 8431,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1566889200000,
+    "active_energy": 1180,
+    "resting_heartrate": 60,
+    "steps": 14641,
+    "vo2_max": 41
+  },
+  {
+    "timestamp": 1566802800000,
+    "active_energy": 961,
+    "resting_heartrate": 55,
+    "steps": 12645,
+    "vo2_max": 42
+  },
+  {
+    "timestamp": 1566716400000,
+    "active_energy": 1315,
+    "resting_heartrate": 58,
+    "steps": 14314,
+    "vo2_max": 43
+  },
+  {
+    "timestamp": 1566630000000,
+    "active_energy": 614,
+    "resting_heartrate": 58,
+    "steps": 8060,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1566543600000,
+    "active_energy": 1156,
+    "resting_heartrate": 65,
+    "steps": 17899,
+    "vo2_max": 44
+  },
+  {
+    "timestamp": 1566457200000,
+    "active_energy": 1023,
+    "resting_heartrate": 56,
+    "steps": 13690,
+    "vo2_max": 44
+  },
+  {
+    "timestamp": 1566370800000,
+    "active_energy": 571,
+    "resting_heartrate": 61,
+    "steps": 6130,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1566284400000,
+    "active_energy": 1072,
+    "resting_heartrate": 62,
+    "steps": 13669,
+    "vo2_max": 44
+  },
+  {
+    "timestamp": 1566198000000,
+    "active_energy": 551,
+    "resting_heartrate": 59,
+    "steps": 4169,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1566111600000,
+    "active_energy": 723,
+    "resting_heartrate": 64,
+    "steps": 12634,
+    "vo2_max": null
+  },
+  {
+    "timestamp": 1566025200000,
+    "active_energy": 1425,
+    "resting_heartrate": 66,
+    "steps": 20890,
+    "vo2_max": 44
+  },
+  {
+    "timestamp": 1565938800000,
+    "active_energy": 1100,
+    "resting_heartrate": 65,
+    "steps": 11431,
+    "vo2_max": 44
+  }
+]
