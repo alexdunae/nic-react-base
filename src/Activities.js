@@ -1,5 +1,6 @@
 import GenericActivity from './GenericActivity';
 import RunActivity from './RunActivity';
+
 export default function Activities(props) {
   const renderedActivities = props.activities.map((activity) => {
     if (activity.type === 'Run') {
