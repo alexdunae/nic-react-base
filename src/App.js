@@ -1,6 +1,7 @@
 import { useState } from 'react';
-import { VITALS } from './lib/placeholderData';
+import { VITALS, ACTIVITIES } from './lib/placeholderData';
 import VitalsSummary from './VitalsSummary';
+import Activities from './Activities';
 
 function App() {
   // const [count, setCount] = useState(0);
@@ -10,7 +11,7 @@ function App() {
     setShowSummary(!showSummary);
   }
 
-  console.debug(`⚙️ App showSummary=${showSummary} vitals=${VITALS.length}`);
+  console.debug(`⚙️ App showSummary=${showSummary} activities=${ACTIVITIES.length} vitals=${VITALS.length}`);
 
   return (
     <div className="app">
@@ -24,6 +25,9 @@ function App() {
         <VitalsSummary showSummary={showSummary} measurements={VITALS} label="Resting ❤️" dataKey="resting_heartrate" />
         <VitalsSummary showSummary={showSummary} measurements={VITALS} label="Activity 🍲" dataKey="active_energy" />
       </div>
+
+      <hr className="uk-divider-icon" />
+      <Activities activities={ACTIVITIES} />
     </div>
   );
 }
