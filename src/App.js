@@ -1,7 +1,16 @@
+import { VITALS } from './lib/placeholderData';
+import VitalsSummary from './VitalsSummary';
+
 function App() {
+  console.debug(`⚙️ App vitals=${VITALS.length}`, VITALS);
+
   return (
-    <div className="app uk-position-center">
-      <p className="uk-heading-large uk-text-muted uk-text-light">React 🥰</p>
+    <div className="app">
+      <div className="vitals-boxes">
+        <VitalsSummary measurements={VITALS} label="Steps 🏃" dataKey="steps" />
+        <VitalsSummary measurements={VITALS} label="Resting ❤️" dataKey="resting_heartrate" />
+        <VitalsSummary measurements={VITALS} label="Activity 🍲" dataKey="active_energy" />
+      </div>
     </div>
   );
 }
