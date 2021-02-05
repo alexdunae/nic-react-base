@@ -5,13 +5,14 @@ import axios from 'axios';
 import VitalsSummary from './VitalsSummary';
 import Activities from './Activities';
 import AppLoading from './AppLoading';
+import { IVitals, IActivity } from './types';
 
 function App() {
   // const [count, setCount] = useState(0);
-  const [showSummary, setShowSummary] = useState(true);
-  const [loadingStatus, setLoadingStatus] = useState('fetching');
-  const [activities, setActivities] = useState([]);
-  const [vitals, setVitals] = useState([]);
+  const [showSummary, setShowSummary] = useState<boolean>(true);
+  const [loadingStatus, setLoadingStatus] = useState<'ready' | 'fetching' | 'error'>('fetching');
+  const [activities, setActivities] = useState<IActivity[]>([]);
+  const [vitals, setVitals] = useState<IVitals[]>([]);
 
   const activitiesEndpoint = '/activities.json';
   const vitalsEndpoint = '/vitals.json';

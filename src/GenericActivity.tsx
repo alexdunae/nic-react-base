@@ -1,7 +1,12 @@
 import formatSecondsAsTime from './lib/formatSecondsAsTime';
 import formatTimestamp from './lib/formatTimestamp';
+import { IActivity } from './types';
 
-function GenericActivity(props) {
+interface MyCoolInternalProps {
+  activity: IActivity;
+}
+
+function GenericActivity(props: MyCoolInternalProps) {
   const name = props.activity.name;
   const type = props.activity.type;
   const timestamp = props.activity.timestamp;
@@ -17,7 +22,7 @@ function GenericActivity(props) {
       <th>{name}</th>
       <td>{type}</td>
       <td>{formattedDuration}</td>
-      <td colSpan="2">&nbsp;</td>
+      <td colSpan={2}>&nbsp;</td>
     </tr>
   );
 }

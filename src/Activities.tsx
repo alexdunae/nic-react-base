@@ -1,7 +1,12 @@
 import GenericActivity from './GenericActivity';
 import RunActivity from './RunActivity';
+import { IActivity } from './types';
 
-export default function Activities(props) {
+interface Props {
+  activities: IActivity[];
+}
+
+export default function Activities(props: Props) {
   const renderedActivities = props.activities.map((activity) => {
     if (activity.type === 'Run') {
       return <RunActivity activity={activity} />;
@@ -20,7 +25,7 @@ export default function Activities(props) {
             <th>Title</th>
             <th>Type</th>
             <th>Duration</th>
-            <th colSpan="2">Details</th>
+            <th colSpan={2}>Details</th>
           </tr>
         </thead>
         <tbody>{renderedActivities}</tbody>
