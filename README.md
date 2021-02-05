@@ -1,3 +1,11 @@
+# Workshop Final Product
+
+Here is the site we live coded during the workshop.  You can see at online version at [https://nic-react.netlify.app/](https://nic-react.netlify.app/).
+
+Thanks for joining - I hope you found the workshop useful!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
