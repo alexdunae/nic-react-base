@@ -1,3 +1,5 @@
+import { useState } from 'react';
+import ActivityFilter from './ActivityFilter';
 import GenericActivity from './GenericActivity';
 import RunActivity from './RunActivity';
 import { IActivity } from './types';
@@ -7,7 +9,14 @@ interface Props {
 }
 
 export default function Activities(props: Props) {
-  const renderedActivities = props.activities.map((activity) => {
+  const [filteredActivityType, setFilteredActivityType] = useState(undefined);
+
+  // filter if need
+  const filteredActivities = filteredActivityType
+    ? props.activities.filter((a) => a.type === filteredActivityType)
+    : props.activities;
+
+  const renderedActivities = filteredActivities.map((activity) => {
     if (activity.type === 'Run') {
       return <RunActivity activity={activity} />;
     } else {
@@ -18,6 +27,10 @@ export default function Activities(props: Props) {
   return (
     <div className="uk-margin">
       <h3 className="uk-heading-small">Recent Activities 🤸‍♂️</h3>
+      <ActivityFilter
+        setFilteredActivityType={setFilteredActivityType}
+        filteredActivityType={filteredActivityType}
+      />{' '}
       <table className="uk-table uk-table-striped uk-table-small">
         <thead>
           <tr>
